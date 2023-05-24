@@ -1,5 +1,8 @@
 # Self-Evaluation
 
 - This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
+    - When looking at how complex these OOP statements are, it is really nice to see how far I have come along in the past 3 weeks. Although I did not get all of the code to work as I wanted it too, I feel good about the work I have done and I am excited to see what I need to do in order to get my code to provide the desired result. 
 - How is your workflow going, in terms of taking breaks, staying focused, etc.?
+    - I do think that my workflow has some opportunities, but this is also because my trip made me get behind in the work. I know that these lessons take me longer, and so I had been doing a great job allocating enough time to get them compelte. This lesson is particular was tough beacuase I was already behind and so I was not able to really take any breaks except to eat and go to the bathroom becasue I needed to get this in. This won't be an issue once the program starts because I have no trips planned from July-January for the purpose of setting myself up for success. 
 - What did you learn from this exercise that you want to remember as you begin Mod 1?
+    -One this I want to remember about this lesson is understanding the difference and importance of default vs flexible attributes and how they should be listed in my code block.  
